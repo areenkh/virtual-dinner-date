@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/areenkh/virtual-dinner-date/static/css/main.498ac8cc.chunk.css",
+    "main.js": "/areenkh/virtual-dinner-date/static/js/main.25865806.chunk.js",
+    "main.js.map": "/areenkh/virtual-dinner-date/static/js/main.25865806.chunk.js.map",
+    "runtime~main.js": "/areenkh/virtual-dinner-date/static/js/runtime~main.d6764bcd.js",
+    "runtime~main.js.map": "/areenkh/virtual-dinner-date/static/js/runtime~main.d6764bcd.js.map",
+    "static/js/2.2482cadb.chunk.js": "/areenkh/virtual-dinner-date/static/js/2.2482cadb.chunk.js",
+    "static/js/2.2482cadb.chunk.js.map": "/areenkh/virtual-dinner-date/static/js/2.2482cadb.chunk.js.map",
+    "index.html": "/areenkh/virtual-dinner-date/index.html",
+    "precache-manifest.a52ca9c6d73a3cffb23004d5b9c81151.js": "/areenkh/virtual-dinner-date/precache-manifest.a52ca9c6d73a3cffb23004d5b9c81151.js",
+    "service-worker.js": "/areenkh/virtual-dinner-date/service-worker.js",
+    "static/css/main.498ac8cc.chunk.css.map": "/areenkh/virtual-dinner-date/static/css/main.498ac8cc.chunk.css.map",
+    "static/media/angrycat.gif": "/areenkh/virtual-dinner-date/static/media/angrycat.d4e68cce.gif",
+    "static/media/catplay.gif": "/areenkh/virtual-dinner-date/static/media/catplay.a3d69709.gif",
+    "static/media/chickenburger.jpg": "/areenkh/virtual-dinner-date/static/media/chickenburger.169b1dc0.jpg",
+    "static/media/chickenwings.jpg": "/areenkh/virtual-dinner-date/static/media/chickenwings.66e9fdec.jpg",
+    "static/media/cutecat.gif": "/areenkh/virtual-dinner-date/static/media/cutecat.c4270938.gif",
+    "static/media/pizza.jpg": "/areenkh/virtual-dinner-date/static/media/pizza.bf8d2005.jpg",
+    "static/media/shawarma.jpeg": "/areenkh/virtual-dinner-date/static/media/shawarma.33892d44.jpeg",
+    "static/media/tabouleh.jpg": "/areenkh/virtual-dinner-date/static/media/tabouleh.8b1b7cf2.jpg",
+    "static/media/tacos.jpg": "/areenkh/virtual-dinner-date/static/media/tacos.6315c254.jpg"
+  }
+}
