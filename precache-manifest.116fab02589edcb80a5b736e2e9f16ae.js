@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98ffbaf16b01ae2213b49bcc75d6a836",
+    "revision": "a871eff0d9f5dd1bd739196266aef280",
     "url": "/areenkh/virtual-dinner-date/index.html"
   },
   {
