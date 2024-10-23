@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/virtual-dinner-date/static/css/main.a993e917.chunk.css",
+    "main.css": "/virtual-dinner-date/static/css/main.d2cf13d6.chunk.css",
     "main.js": "/virtual-dinner-date/static/js/main.c21cd097.chunk.js",
     "main.js.map": "/virtual-dinner-date/static/js/main.c21cd097.chunk.js.map",
     "runtime~main.js": "/virtual-dinner-date/static/js/runtime~main.882dae56.js",
@@ -8,9 +8,9 @@
     "static/js/2.2482cadb.chunk.js": "/virtual-dinner-date/static/js/2.2482cadb.chunk.js",
     "static/js/2.2482cadb.chunk.js.map": "/virtual-dinner-date/static/js/2.2482cadb.chunk.js.map",
     "index.html": "/virtual-dinner-date/index.html",
-    "precache-manifest.7faafa6588dee2985965e1315a353590.js": "/virtual-dinner-date/precache-manifest.7faafa6588dee2985965e1315a353590.js",
+    "precache-manifest.f586556ea41cbe6160c4266bbddf89ff.js": "/virtual-dinner-date/precache-manifest.f586556ea41cbe6160c4266bbddf89ff.js",
     "service-worker.js": "/virtual-dinner-date/service-worker.js",
-    "static/css/main.a993e917.chunk.css.map": "/virtual-dinner-date/static/css/main.a993e917.chunk.css.map",
+    "static/css/main.d2cf13d6.chunk.css.map": "/virtual-dinner-date/static/css/main.d2cf13d6.chunk.css.map",
     "static/media/angrycat.gif": "/virtual-dinner-date/static/media/angrycat.d4e68cce.gif",
     "static/media/catplay.gif": "/virtual-dinner-date/static/media/catplay.a3d69709.gif",
     "static/media/chickenburger.jpg": "/virtual-dinner-date/static/media/chickenburger.169b1dc0.jpg",
