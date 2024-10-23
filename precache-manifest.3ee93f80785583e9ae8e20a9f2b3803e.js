@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3c3ef9d78158b747dd99419b5fd786e",
+    "revision": "d26b182c940bc184cd92a17d6aae65fb",
     "url": "/virtual-dinner-date/index.html"
   },
   {
-    "revision": "c3afe6a26fd8f5e198bf",
+    "revision": "9610df752be671829759",
     "url": "/virtual-dinner-date/static/css/main.498ac8cc.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/virtual-dinner-date/static/js/2.2482cadb.chunk.js"
   },
   {
-    "revision": "c3afe6a26fd8f5e198bf",
-    "url": "/virtual-dinner-date/static/js/main.25865806.chunk.js"
+    "revision": "9610df752be671829759",
+    "url": "/virtual-dinner-date/static/js/main.009089e0.chunk.js"
   },
   {
     "revision": "3e0efd7dd05056e11f62",
