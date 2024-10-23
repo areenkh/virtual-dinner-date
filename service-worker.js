@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/virtual-dinner-date/precache-manifest.3ee93f80785583e9ae8e20a9f2b3803e.js"
+  "/virtual-dinner-date/precache-manifest.7faafa6588dee2985965e1315a353590.js"
 );
 
 self.addEventListener('message', (event) => {
